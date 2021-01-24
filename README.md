@@ -1,1 +1,1 @@
-# Java-School-SBT
+# Java
